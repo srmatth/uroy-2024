@@ -1,4 +1,4 @@
-Place,Bib,Name,Age,Gender,City,State,Laps,Miles,KM
+Place,Bib,Runner,Age,Gender,City,State,Laps,Miles,KM
 1.,2,Juan Acevedo,41,M,Lufkin,TX,291,200.92,323.35
 2.,46,Dena Carr,45,F,Scott AFB,IL,263,181.58,292.24
 3.,74,Michael McGinnis,21,M,Houston,TX,255,176.06,283.35
